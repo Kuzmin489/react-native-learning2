@@ -1,0 +1,32 @@
+{
+  "extends": "rallycoding",
+  "rules": {
+    "quotes": "off",
+    "arrow-body-style": "off",
+    "no-undef": "off"
+  }
+
+/*
+  "rules": {
+    "class-methods-use-this": ["error", {"exceptMethods": [
+      "componentDidMount",
+      "componentDidUpdate",
+      "componentWillMount",
+      "componentWillReceiveProps",
+      "componentWillUnmount",
+      "componentWillUpdate",
+      "render",
+      "shouldComponentUpdate"
+    ]}],
+    "no-use-before-define": ["error", { "functions": true, "classes": true, "variables": false}],
+    "no-undef": "off",
+    "arrow-body-style": ["off", "always"],
+    "import/prefer-default-export":"off",
+    "react/jsx-no-bind": "off"
+
+  }
+
+*/
+
+
+}
